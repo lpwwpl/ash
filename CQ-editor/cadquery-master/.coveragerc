@@ -1,0 +1,10 @@
+[run]
+branch = True
+omit = 
+    cadquery/utils.py
+    cadquery/cq_directive.py
+
+[report]
+exclude_lines =
+    # Ignore stub body
+    \.\.\.

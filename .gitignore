@@ -1,0 +1,44 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled source #
+###################
+build
+debug
+Debug
+release
+Release
+x64
+
+# Qt generated files #
+######################
+*.pro.user
+GeneratedFiles
+.qmake.stash
+
+# VS project files #
+####################
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.rc
+.vs
+
+# Xcode project files #
+#######################
+*.xcodeproj
+Info.plist
+
+# Makefile #
+############
+Makefile
+makefile
+/lib

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ControlEventSource.qml</file>
+        <file>csg.js</file>
+        <file>imagecube.js</file>
+        <file>ImageCube.qml</file>
+        <file>three.js</file>
+        <file>ThreeCSG.js</file>
+        <file>delaunator.js</file>
+        <file>perlin.js</file>
+    </qresource>
+</RCC>
